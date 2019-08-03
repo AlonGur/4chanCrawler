@@ -1,0 +1,16 @@
+{
+  "name": "4chancrawler",
+  "version": "1.0.0",
+  "description": "4chan message board file scrapper",
+  "main": "4chanMultiBoardCrawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alon Gur",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.5.0",
+    "puppeteer": "^1.19.0",
+    "winston": "^3.2.1"
+  }
+}
